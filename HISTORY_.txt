@@ -1,0 +1,9 @@
+
+2022-07-24
+
+- https://developer.android.com/training/basics/firstapp 에서 튜토리얼 시작 
+- 처음 프로젝트 만들때 AndroidX Migrate ? 인가 이거 체크안하고 만들어 가지고 Refactor -> Migrate to AndroidX 이거 눌러서 Migrate 했음.
+	- 이거 안하면 gradle 에서 Cannot resolve ... library 뭐 요딴 에러 준내남 . 
+- Activty 랑 Intent 랑 뭐 기타 개념좀 공부하고 activity_main.xml 의 [Design] tab 에서 UI 배치함
+- Activty 하나 더 만들고 DisplayMessageActivity 로 이름 짓고 Main 에서 해당 Activity 로 전환하는거 테스트함. 
+- Activity 전환할때 Intent 로 Text Data 맵핑시켜서 해당 activity 에서 get 하고 UI Text 에 Set 하는거 까지 테스트함. 
